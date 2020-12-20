@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(144,1): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(145,1): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(151,1): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(295,36): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(295,27): warning C4244: '초기화 중': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(303,48): warning C4244: '=': 'unsigned long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(306,112): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(354,88): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(497,77): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(497,77): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(570,62): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(570,62): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(645,61): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(645,61): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(706,40): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(706,21): warning C4244: '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(707,40): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(707,21): warning C4244: '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HHJ\CRWL\final_project\Yolo_mark\main.cpp(814,40): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 956 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  yolo_mark.vcxproj -> C:\Users\HHJ\CRWL\final_project\Yolo_mark\x64\Release\yolo_mark.exe

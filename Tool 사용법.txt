@@ -1,0 +1,3 @@
+YOLO_mark, darknet 사용법 : https://ctkim.tistory.com/82
+darknet build하는법 : https://mickael-k.tistory.com/15
+Yolo tflite(python) : https://github.com/hunglc007/tensorflow-yolov4-tflite
